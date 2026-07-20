@@ -1,0 +1,8 @@
+Stock Portfolio Summary
+-----------------------
+TCS: 50 shares = $109100
+INFY: 35 shares = $38570
+JINDALSTEL: 50 shares = $51450
+VEDL: 80 shares = $21600
+
+Total Investment Value = $220720
