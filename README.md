@@ -279,3 +279,105 @@ This project is licensed for educational and learning purposes.
 * 🤖 AI & Machine Learning Enthusiast
 
 
+# 🤖 Basic Rule-Based Chatbot (Python)
+
+A simple rule-based chatbot built using Python as part of the **CodeAlpha Python Programming Internship**. The chatbot responds to predefined user inputs using conditional statements and continues the conversation until the user exits.
+
+## 📌 Project Overview
+
+This chatbot demonstrates the fundamentals of conversational programming by matching user inputs with predefined responses. It is a beginner-friendly project that showcases the use of Python control flow, loops, functions, and user interaction.
+
+## ✨ Features
+
+* 👋 Greets the user.
+* 💬 Responds to predefined messages.
+* 🔁 Runs continuously until the user types **"bye"**.
+* 🧠 Uses simple rule-based logic with `if-elif-else`.
+* 🚀 Easy to understand and customize.
+
+## 🛠️ Technologies Used
+
+* Python 3.x
+
+## 📂 Project Structure
+
+```
+Basic-Chatbot/
+│── chatbot.py
+│── README.md
+```
+
+## ▶️ How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/your-username/Basic-Chatbot.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd Basic-Chatbot
+```
+
+3. Run the program:
+
+```bash
+python chatbot.py
+```
+
+## 💬 Sample Conversation
+
+```
+🤖 ChatBot: Hello! I am your simple chatbot.
+Type 'bye' to end the conversation.
+
+You: hello
+🤖 ChatBot: Hi! How can I help you?
+
+You: how are you
+🤖 ChatBot: I'm fine, thanks! How about you?
+
+You: what is your name
+🤖 ChatBot: My name is Basic ChatBot.
+
+You: thanks
+🤖 ChatBot: You're welcome!
+
+You: bye
+🤖 ChatBot: Goodbye! Have a nice day.
+```
+
+## 📚 Concepts Used
+
+* Functions
+* Conditional Statements (`if`, `elif`, `else`)
+* Loops (`while`)
+* User Input (`input()`)
+* String Manipulation (`lower()`, `strip()`)
+* Console Output (`print()`)
+
+## 🎯 Learning Outcomes
+
+* Understand the basics of chatbot development.
+* Practice Python decision-making statements.
+* Learn how to create an interactive command-line application.
+* Improve problem-solving and programming logic.
+
+## 📖 Future Enhancements
+
+* Add more conversational responses.
+* Implement Natural Language Processing (NLP).
+* Store conversation history.
+* Add voice input and speech output.
+* Create a graphical user interface (GUI).
+
+## 👨‍💻 Author
+
+**Arjun Tiwari**
+
+### ⭐ If you found this project helpful, don't forget to star this repository!
+
+
+
